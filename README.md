@@ -28,7 +28,8 @@ Prime counts are computed across uniform intervals, producing a distribution of 
 
 **Stack:** Wolfram Mathematica
 
-<img src="Assets/Prime-Distribution-Plots.jpeg" width="800">
+<p align="center">
+<img src="Assets/Prime-Distribution-Plots.jpeg" width="800"></p>
 
 ### 2. Monte Carlo π Estimation
 
@@ -53,4 +54,5 @@ Random points are generated within a bounded square. Points that fall inside the
 
 **Stack:** Python, Matplotlib
 
-<img src="Assets/Monte-Carlo-Pi.png" width="500">
+<p align="center">
+<img src="Assets/Monte-Carlo-Pi.png" width="500"></p>
