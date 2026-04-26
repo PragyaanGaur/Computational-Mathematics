@@ -32,5 +32,4 @@ def pi_(n):
     plt.show()
 
     return pi_value
-
 print(pi_(20000))
